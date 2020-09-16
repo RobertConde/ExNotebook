@@ -1,0 +1,18 @@
+ * REFER TO SAMPLE * 
+
+REFERENCES & HANDOUTS
+	For each reference/handout you get, put it in your References & Handouts section of
+	your notebook with the following information written in INK in the BOTTOM-RIGHT
+	CORNER of the FRONT PAGE OF THE HOMEWORK:
+		1. The corresponding # in the table of contents.
+		2. The the date you received the reference/handout (must match table of contents).
+	
+	Your first couple of references should be the following:
+		1. Class Procedures: https://springssoft.com/downloads/Papers/clasproc.pdf
+		
+		 - Math Courses:
+			2. Notebook Grading Guidelines/Specifications: https://springssoft.com/downloads/Papers/a2nbrul.pdf
+		 - Research Courses:
+			2. Notebook Grading Guidelines/Specifications: https://springssoft.com/downloads/Papers/ebnbrul.pdf
+			
+		3. Grading Homework/Homework Policy: https://springssoft.com/downloads/Papers/homework.pdf
