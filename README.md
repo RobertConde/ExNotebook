@@ -1,2 +1,2 @@
 # ExNotebook
- Deciphering Koski's IKWITBIDKHTSI
+ For releases, click [here](https://github.com/RobertConde/ExNotebook/releases).
