@@ -1,9 +1,0 @@
- * REFER TO EACH SECTION FOR A SAMPLE OF EACH TABLE OF CONTENTS * 
-
-TABLES OF CONTENTS
-	Each table of contents (TOC) is supposed to be an directory for each
-	section of your binder and provide information on the documents
-	stored in each section. For example, the TOC for the Tests, Quizzes,
-	& Classwork section is supposed to give an index, the date received,
-	the grade, the weight, and a description of each document in the
-	section.
