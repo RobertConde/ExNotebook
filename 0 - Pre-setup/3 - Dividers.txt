@@ -1,0 +1,9 @@
+ * THE FOLLOWING VARIES BETWEEN BETWEEN MATH AND RESEARCH COURSES (REFER TO "NOTEBOOK SPECIFICATIONS") * 
+
+DIVIDERS
+ 1) Classroom Notes
+ 2) Journals
+ 3) Homework
+ 4) Tests, Quizzes, & Classwork
+ 5) References & Handouts
+ 
