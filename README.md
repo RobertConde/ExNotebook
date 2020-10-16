@@ -1,5 +1,5 @@
 # ExNotebook
- For releases, click [here](https://github.com/RobertConde/ExNotebook/releases).
+ For releases, click [here](https://github.com/RobertConde/ExNotebook/releases/latest).
  
  The purpose of this "Explanatory Notebook" (aka ExNotebok) is to decicpher Koski's most infamous IKWITBIDKHTSI (I Know What It Is, But I Don't Know How To Say It).
  
